@@ -26,8 +26,6 @@ Obs: Necessário rodar simultaneamente a Api disponibilizada ao final da página
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [React](https://react.dev/) - O framework web usado
 * [Styled Components](https://styled-components.com/) - Framework CSS usado
 
